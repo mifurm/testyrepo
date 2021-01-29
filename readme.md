@@ -1,6 +1,6 @@
 # Tytuł
 
-Tekst
+Tekst - Michal Furmankiewicz
 
 Test
 
